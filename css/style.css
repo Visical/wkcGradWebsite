@@ -45,15 +45,18 @@
 
 .footer {
     background: #222f3e;
-    margin-top: 2%;
+    margin-top: 19.1%;  /* change this back to 2%B when content fills the page */
     padding: 25px;
     text-align: center;
     color: #fff;
+    height: 90px
 }
 
 body {
     background-color: #DEC37C;
 }
+
+
 
 .active > a {
     background-color: #014713 !important; color: white !important; 
