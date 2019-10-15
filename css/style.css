@@ -57,6 +57,38 @@ body {
 }
 
 
+/*css for home page stuff */
+
+.drive{
+    text-align: center;
+}
+
+.drive2{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+
+/* css for upcoming page stuff */
+
+.fund-info{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+
+/*css for tickets page */
+
+.ticket-info{
+    text-align: center;
+}
+
+
+
+
+
 
 .active > a {
     background-color: #014713 !important; color: white !important; 
