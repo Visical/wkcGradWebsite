@@ -59,9 +59,14 @@ body {
 
 /*css for home page stuff */
 
-.drive{
+.info-head{
     text-align: center;
-    color: red;
+    margin-bottom: 35px;
+}
+
+div > .balloons{
+    height: 450px;
+    padding-bottom: 50px;
 }
 
 .drive2{
@@ -71,7 +76,7 @@ body {
 
 
 
-/* css for upcoming page stuff */
+/* css for upcoming/fundraising page stuff */
 
 .fund-info{
     margin-left: 100px;
