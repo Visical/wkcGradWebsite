@@ -73,7 +73,9 @@ div > .balloons{
     margin-left: 100px;
     margin-right: 100px;
     text-align: center;
-    margin-bottom: 35px;
+    margin-bottom: 45px;
+    font-size: 25px;
+    margin-top: -15px;
 }
 
 .drive2{
