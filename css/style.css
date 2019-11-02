@@ -91,9 +91,33 @@ div > .balloons{
 .fund-info{
     margin-left: 100px;
     margin-right: 100px;
+    margin-bottom: 40px;
 }
 
 
+.sarcan1{
+    text-align: center;
+    margin-top: -30px;
+}
+
+.sarcan2{
+    text-align: center;
+    padding-bottom: 15px;
+   
+}
+
+.sarcan3{
+    padding-left: 120px;
+}
+
+.sarcan4{
+   padding-left: 120px; 
+}
+
+.sarcan5{
+    padding-left: 120px;
+    padding-top: 15px;
+}
 
 /*css for tickets page */
 
