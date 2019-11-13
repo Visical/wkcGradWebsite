@@ -119,6 +119,25 @@ div > .balloons{
     padding-top: 15px;
 }
 
+
+.perogie1{
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.important{
+    font-weight: bold;
+}
+
+.orderForm{
+    padding-left: 120px;
+}
+
+.seperate-line{
+    border-color: black;
+    margin: 50px 105px 30px 105px;
+}
+
 /*css for tickets page */
 
 .ticket-info{
