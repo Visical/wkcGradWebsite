@@ -106,7 +106,8 @@ div > .balloons{
 }
 
 .update-doc{
-    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
     font-size: 19px;
     padding-bottom: 1px;
 }
