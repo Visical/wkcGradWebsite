@@ -86,10 +86,7 @@ div > .balloons{
 }
 
 .drive3{
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-bottom: 36px;
-    font-weight: bold;
+    text-align: center;
     font-size: 22px;
 }
 
