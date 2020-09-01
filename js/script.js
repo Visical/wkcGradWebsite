@@ -24,7 +24,7 @@ function validateForm(){
     picsdownload += "<p><a href=\"pictures/BalconyGirls3.zip\" download>" + "Girls Balcony 3+" + "</a><br>";
     picsdownload += "<p><a href=\"pictures/BalconyGuys.zip\" download>" + "Guys Balcony" + "</a><br>";
     picsdownload += "<p><a href=\"pictures/BalconyGroups.zip\" download>" + "Group Balcony" + "</a><br>";
-    picsdownload += "<p><a href=\"pictures/Group.zip\" download>" + "Groups" + "</a><br>";
+    picsdownload += "<p><a href=\"pictures/Speeches.zip\" download>" + "Speeches" + "</a><br>";
     picsdownload += "<a href=\"pictures/GrandMarchLineup.zip\" download>" + "Grand March Line Up" + "</a></p><br>";
 
     document.getElementById("shown-body").innerHTML = picsdownload;
