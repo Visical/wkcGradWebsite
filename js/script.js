@@ -19,13 +19,12 @@ function validateForm(){
     }
 
     var picsdownload = "<h4>Click a link to download the file</h4>";
-    picsdownload += "<p><a href=\"pictures/BalconyGirls1.zip\" download>" + "Girls Balcony 1" + "</a><br>";
-    picsdownload += "<p><a href=\"pictures/BalconyGirls2.zip\" download>" + "Girls Balcony 2" + "</a><br>";
-    picsdownload += "<p><a href=\"pictures/BalconyGirls3.zip\" download>" + "Girls Balcony 3+" + "</a><br>";
-    picsdownload += "<p><a href=\"pictures/BalconyGuys.zip\" download>" + "Guys Balcony" + "</a><br>";
-    picsdownload += "<p><a href=\"pictures/BalconyGroups.zip\" download>" + "Group Balcony" + "</a><br>";
-    picsdownload += "<p><a href=\"pictures/Speeches.zip\" download>" + "Speeches" + "</a><br>";
-    picsdownload += "<a href=\"pictures/GrandMarchLineUp.zip\" download>" + "Grand March Line Up" + "</a></p><br>";
+    picsdownload += "<p><a href=\"pictures/OnStageGirls1.zip\" download>" + "On Stage Girls 1" + "</a><br>";
+    picsdownload += "<p><a href=\"pictures/OnStageGirls2.zip\" download>" + "On Stage Girls 2" + "</a><br>";
+    picsdownload += "<p><a href=\"pictures/OnStageGuys1.zip\" download>" + "On Stage Guys 1" + "</a><br>";
+    picsdownload += "<p><a href=\"pictures/OnStageGuys2.zip\" download>" + "On Stage Guys 2" + "</a><br>";
+    picsdownload += "<p><a href=\"pictures/Group.zip\" download>" + "Groups" + "</a><br>";
+    picsdownload += "<a href=\"pictures/SeatedCandid.zip\" download>" + "Seated - Candid" + "</a></p><br>";
 
     document.getElementById("shown-body").innerHTML = picsdownload;
 

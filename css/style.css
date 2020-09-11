@@ -185,6 +185,21 @@ div > .balloons{
 
 
 
+/*css for pictures page */
+
+.pword-form{
+    text-align: center;
+    margin-top: 20%;
+}
+
+.form-text{
+    font-size: 24px;
+}
+
+.downloads{
+    font-size: 21px;
+    padding-top: 30px;
+}
 
 
 .active > a {
